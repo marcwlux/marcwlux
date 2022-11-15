@@ -2,6 +2,7 @@
 - 👀 I’m interested in C#, Asp.Net, Dotnet core, Typescript, and a lot of others
 - 🌱 I’m currently learning blockchain paiment methods
 - 💞️ I’m looking to collaborate on Dapps
+- Discord: https://discord.gg/Wshp4AH5ns
 
 
 <!---
